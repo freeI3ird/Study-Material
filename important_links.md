@@ -44,3 +44,8 @@
 1. DP: https://www.quora.com/What-are-the-best-ways-to-master-dynamic-programming/answer/Sameer-Gulati-3
 2. All CP algos: https://cp-algorithms.com/
 3. Sameer algo list: https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know
+
+
+##### Python
+1. Connecting with Mysql: https://dev.mysql.com/doc/connector-python/en/connector-python-example-cursor-select.html
+2.

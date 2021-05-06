@@ -13,9 +13,9 @@
    - **Ans**: Logistic regression of sklearn is a linear model, its raw model output z = w@X is linear. That's why it always produces Linear Boundary.
 5. `Why for gridsearch of parameter 'C' of logistic regression, we use np.logspace(start, end,num, base) as range of values ?`
 6. `What is the effect of No. of features/predictors >= no. of data points ?`
-7. Why complex models leads to overfitting ?
+7. Why complex models(higher order hypothesis or large no of features/parameters) leads to overfitting ?
    - **Ans:** Complex models learn the pecularities of data(very small details, which are specific to that particular data only). This leads to overfitting of model on that data.
-8. `Is logistic linear or non-linear ? `
+8. `Is logistic linear or non-linear ?`g
 9. `Mathematics behind the L1 for feature selection and why L2 can't be used for feature selection`
 10. `How Best Estimator is selected in the GridSearchCV ?`
 11. `Multinomial approach for multi-class classification ?`
@@ -33,3 +33,5 @@
 #### Python
 1. What is context manager in python ?
 2. What are decoratores ?
+
+
